@@ -52,4 +52,4 @@ GAutos incluye herramientas específicas para controlar el dinero, gestionar al 
 * **Consultar datos vehiculares:** Acceso rápido a información técnica y legal del vehículo ingresando la placa, permitiendo validar de manera rápida y automática las características (marca, modelo, año) y verificar si el traspaso de propietario se concretó.
 * **Consultar tipo de cambio:** Actualización automática de la tasa de cambio del día para realizar conversiones precisas entre monedas (Soles/Dólares) en cada transacción, asegurando que los balances contables sean exactos.
 * **Consultar DNI** Integración de búsqueda por documento de identidad para autocompletar nombres y apellidos de clientes, proveedores o personal, agilizando el registro y validando la identidad real de las personas.
-* * **Historial de cambios:** Auditoría de seguridad que registra quién y cuándo modificó un precio o costo, garantizando transparencia total ante socios y dueños.
+* **Historial de cambios:** Auditoría de seguridad que registra quién y cuándo modificó un precio o costo, garantizando transparencia total ante socios y dueños.
